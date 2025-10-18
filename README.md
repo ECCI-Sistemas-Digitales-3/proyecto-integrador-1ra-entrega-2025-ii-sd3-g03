@@ -25,7 +25,7 @@ El TCS34725 se comunica mediante el protocolo **I2C**, lo que facilita su integr
 - **Voltaje de entrada:** 3.0 V a 5.0 V  
 - **Corriente de entrada:** hasta 20 mA  
 - **Chip base:** TCS3472   
-- **Interfaz de comunicación:** I2C (pines SDA y SCL)  
+- **Interfaz de comunicación:** I2C (SDA y SCL)  
 - **Filtro IR:** integrado, mejora la precisión del color  
 
 ---
