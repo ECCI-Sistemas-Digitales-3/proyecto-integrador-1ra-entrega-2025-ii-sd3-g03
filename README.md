@@ -71,7 +71,7 @@ Para poder realizar la calibración del sensor:
 
 ## Avances
 
-Figura 1
+Figura 2
 
 Calibración del color blanco:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/c5b0261c-2923-47ac-9b19-47354769f79d" />
@@ -118,6 +118,13 @@ Figura 8
 
 Calibración del color azul:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/fe84b351-40aa-4a6c-b607-445a348fb76a" />
+
+
+Figura 9
+
+Calibración del color azul:
+<img width="1064" height="521" alt="Image" src="[https://github.com/user-attachments/assets/fe84b351-40aa-4a6c-b607-445a348fb76a](https://github.com/user-attachments/assets/dcdd3987-8362-4031-b54d-10c3bbcbdede
+)" />
 
 Fuente: Elaboración propia
 
