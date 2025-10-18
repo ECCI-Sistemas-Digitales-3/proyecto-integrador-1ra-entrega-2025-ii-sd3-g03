@@ -3,7 +3,9 @@
 
 ## Integrantes
 
-
+- Heidy Nicol Sánchez Peña  
+- David Mora  
+- Federico Díaz Novoa
 
 ## Arquitectura propuesta
 
