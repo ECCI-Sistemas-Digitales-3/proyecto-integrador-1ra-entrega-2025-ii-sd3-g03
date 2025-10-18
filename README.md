@@ -12,7 +12,66 @@
 
 
 ## Periférico a trabajar
+## 🧩 Sensor TCS34725
 
+El **TCS34725** es un módulo capaz de reconocer colores RGB (rojo, verde y azul), así como la intensidad de la luz blanca.  
+Este sensor incluye un filtro infrarrojo (IR) que puede activarse o desactivarse para mejorar la sensibilidad y precisión, evitando interferencias del entorno.  
+
+El TCS34725 se comunica mediante el protocolo **I2C**, lo que facilita su integración con microcontroladores como el **ESP32**, **Raspberry Pi** o **STM32**.  
+
+---
+
+### 🔧 Características técnicas
+- **Voltaje de entrada:** 3.0 V a 5.0 V  
+- **Corriente de entrada:** hasta 20 mA  
+- **Chip base:** TCS3472  
+- **Peso:** 3.23 g  
+- **Dimensiones:** 20 mm × 20 mm  
+- **Interfaz de comunicación:** I2C (pines SDA y SCL)  
+- **Filtro IR:** integrado, mejora la precisión del color  
+
+---
+
+### 📷 Aplicaciones
+- Detección y reconocimiento de color  
+- Control automático de iluminación RGB  
+- Clasificación de objetos por color  
+- Sensado ambiental o corrección de balance de blancos en cámaras  
+
+---
+
+### 📟 Distribución de pines
+
+La **Figura 1** muestra la distribución de pines del sensor **TCS34725**, donde se observan las conexiones necesarias para su correcto funcionamiento con el protocolo **I2C**.
+
+#### Figura 1. Distribución de pines del sensor TCS34725
+![Distribución de pines del sensor TCS34725](77db6bcc-4b3c-43a7-a776-103b1167a7ab.png)
+
+| Pin | Nombre | Descripción |
+|-----|---------|-------------|
+| 1 | **VDD** | Alimentación del módulo (3 V – 5 V) |
+| 2 | **SCL** | Línea de reloj I2C |
+| 3 | **GND** | Tierra |
+| 4 | **NC** | No conectado |
+| 5 | **INT** | Pin de interrupción (opcional) |
+| 6 | **SDA** | Línea de datos I2C |
+
+---
+
+### 🧪 Notas de uso
+Para una correcta calibración del sensor se recomienda:
+1. Colocar una superficie **blanca** frente al sensor y registrar los valores RGB como referencia máxima.  
+2. Colocar una superficie **negra** y registrar los valores mínimos.  
+3. Usar esos valores como límites para ajustar las lecturas y obtener una medición más precisa de cualquier color intermedio.
+
+---
+
+
+Figura 1
+
+Calibración del color blanco:
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/99e27d8b-741d-4262-a29c-fb898426a1cf" />
+Fuente: [ ](https://electronilab.co/wp-content/uploads/2021/06/TCS34725.pdf)
 
 ## Avances
 
