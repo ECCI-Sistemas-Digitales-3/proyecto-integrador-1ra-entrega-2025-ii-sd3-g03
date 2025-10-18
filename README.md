@@ -15,14 +15,8 @@
 
 
 ## Avances
+
 Figura 1
-
-Configuración del token:
-<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/0ca260ff-bbbe-43ba-ac78-e754e2dcad51" />
-
-Fuente: Elaboración propia
-
-Figura 2
 
 Configuración del token:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/c5b0261c-2923-47ac-9b19-47354769f79d" />
