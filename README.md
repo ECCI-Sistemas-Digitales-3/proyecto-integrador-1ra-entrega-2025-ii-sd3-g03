@@ -15,5 +15,15 @@
 
 
 ## Avances
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/0ca260ff-bbbe-43ba-ac78-e754e2dcad51"/>
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/c5b0261c-2923-47ac-9b19-47354769f79d"/>
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/4c929b96-7b27-4aee-a1e2-fc13b9eb6241"/>
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/8355c986-4558-46e1-9508-38a08d673ca5"/>
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/e13c201c-097d-4ca7-95a3-49f91f8ff034"/>
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/b7d7a13d-777b-4935-b0dc-ac85342d899b"/>
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/b1312213-0d97-42a6-86de-ad49b74d195c"/>
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/4173ee93-ca77-43d1-aa72-f8a66e277324"/>
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/be3471f5-dd6c-49cf-9a30-a733296db84e"/>
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/fe84b351-40aa-4a6c-b607-445a348fb76a"/>
 
 <!-- Subir en una carpeta src los códigos que tienen hasta el momento y esta sección agregar lo que consideren necesario referente a sus avances. -->
