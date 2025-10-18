@@ -17,7 +17,7 @@
 El **TCS34725** es un módulo capaz de reconocer colores RGB (rojo, verde y azul), así como la intensidad de la luz blanca.  
 Este sensor incluye un filtro infrarrojo (IR) que puede activarse o desactivarse para mejorar la sensibilidad y precisión, evitando interferencias del entorno.  
 
-El TCS34725 se comunica mediante el protocolo **I2C**, lo que facilita su integración con el microcontrolador **ESP32**, **Raspberry Pi** o **STM32**.  
+El TCS34725 se comunica mediante el protocolo **I2C**, lo que facilita su integración con el microcontrolador **ESP32**.  
 
 ---
 
