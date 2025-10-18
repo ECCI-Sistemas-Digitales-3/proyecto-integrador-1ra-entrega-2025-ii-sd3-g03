@@ -42,9 +42,6 @@ El TCS34725 se comunica mediante el protocolo **I2C**, lo que facilita su integr
 
 La **Figura 1** muestra la distribución de pines del sensor **TCS34725**, donde se observan las conexiones necesarias para su correcto funcionamiento con el protocolo **I2C**.
 
-#### Figura 1. Distribución de pines del sensor TCS34725
-![Distribución de pines del sensor TCS34725](77db6bcc-4b3c-43a7-a776-103b1167a7ab.png)
-
 | Pin | Nombre | Descripción |
 |-----|---------|-------------|
 | 1 | **VDD** | Alimentación del módulo (3 V – 5 V) |
@@ -56,19 +53,21 @@ La **Figura 1** muestra la distribución de pines del sensor **TCS34725**, donde
 
 ---
 
-Para poder hacer la calibración del sensor:
-1. Se colocó en una superficie **blanca** frente al sensor, registrando los valores RGB como referencia máxima.  
-2. Se colocó en una superficie **negra** y se registraron los valores mínimos.  
-3. Luego se usaron esos valores como límites para ajustar las lecturas y obtener una medición más precisa de cualquier color intermedio.
+### ⚙️ Proceso de calibración del sensor
+
+Para poder realizar la calibración del sensor:
+
+1. Se colocó una superficie **blanca** frente al sensor, registrando los valores RGB como referencia máxima.  
+2. Luego se colocó una superficie **negra**, registrando los valores mínimos.  
+3. Finalmente, se usaron esos valores como límites para ajustar las lecturas y obtener una medición más precisa de cualquier color intermedio.
 
 ---
 
+#### Figura 1. Distribución de pines del sensor TCS34725
 
-Figura 1
+<img width="600" alt="Distribución de pines del sensor TCS34725" src="https://github.com/user-attachments/assets/99e27d8b-741d-4262-a29c-fb898426a1cf" />
 
-Calibración del color blanco:
-<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/99e27d8b-741d-4262-a29c-fb898426a1cf" />
-Fuente: [ ](https://electronilab.co/wp-content/uploads/2021/06/TCS34725.pdf)
+**Fuente:** [TCS34725 Datasheet – ams OSRAM](https://electronilab.co/wp-content/uploads/2021/06/TCS34725.pdf)
 
 ## Avances
 
