@@ -18,35 +18,35 @@
 
 Figura 1
 
-Configuración del token:
+Calibración del color blanco:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/c5b0261c-2923-47ac-9b19-47354769f79d" />
 
 Fuente: Elaboración propia
 
 Figura 3
 
-Configuración del token:
+Calibración del color rojo:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/4c929b96-7b27-4aee-a1e2-fc13b9eb6241" />
 
 Fuente: Elaboración propia
 
 Figura 4
 
-Configuración del token:
+Calibración del color rosado:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/8355c986-4558-46e1-9508-38a08d673ca5" />
 
 Fuente: Elaboración propia
 
 Figura 5
 
-Configuración del token:
+Calibración del color amarillo:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/e13c201c-097d-4ca7-95a3-49f91f8ff034" />
 
 Fuente: Elaboración propia
 
 Figura 6
 
-Configuración del token:
+Calibración del color naranja:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/b7d7a13d-777b-4935-b0dc-ac85342d899b" />
 
 Fuente: Elaboración propia
@@ -54,14 +54,14 @@ Fuente: Elaboración propia
 
 Figura 7
 
-Configuración del token:
+Calibración del color verde:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/be3471f5-dd6c-49cf-9a30-a733296db84e" />
 
 Fuente: Elaboración propia
 
 Figura 8
 
-Configuración del token:
+Calibración del color azul:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/fe84b351-40aa-4a6c-b607-445a348fb76a" />
 
 Fuente: Elaboración propia
