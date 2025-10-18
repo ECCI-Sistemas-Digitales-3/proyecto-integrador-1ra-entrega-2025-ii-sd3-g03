@@ -57,28 +57,15 @@ Configuración del token:
 
 Fuente: Elaboración propia
 
+
 Figura 7
-
-Configuración del token:
-<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/b1312213-0d97-42a6-86de-ad49b74d195c" />
-
-Fuente: Elaboración propia
-
-Figura 8
-
-Configuración del token:
-<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/4173ee93-ca77-43d1-aa72-f8a66e277324" />
-
-Fuente: Elaboración propia
-
-Figura 9
 
 Configuración del token:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/be3471f5-dd6c-49cf-9a30-a733296db84e" />
 
 Fuente: Elaboración propia
 
-Figura 10
+Figura 8
 
 Configuración del token:
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/fe84b351-40aa-4a6c-b607-445a348fb76a" />
