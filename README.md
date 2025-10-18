@@ -24,9 +24,7 @@ El TCS34725 se comunica mediante el protocolo **I2C**, lo que facilita su integr
 ### 🔧 Características técnicas
 - **Voltaje de entrada:** 3.0 V a 5.0 V  
 - **Corriente de entrada:** hasta 20 mA  
-- **Chip base:** TCS3472  
-- **Peso:** 3.23 g  
-- **Dimensiones:** 20 mm × 20 mm  
+- **Chip base:** TCS3472   
 - **Interfaz de comunicación:** I2C (pines SDA y SCL)  
 - **Filtro IR:** integrado, mejora la precisión del color  
 
@@ -58,11 +56,10 @@ La **Figura 1** muestra la distribución de pines del sensor **TCS34725**, donde
 
 ---
 
-### 🧪 Notas de uso
-Para una correcta calibración del sensor se recomienda:
-1. Colocar una superficie **blanca** frente al sensor y registrar los valores RGB como referencia máxima.  
-2. Colocar una superficie **negra** y registrar los valores mínimos.  
-3. Usar esos valores como límites para ajustar las lecturas y obtener una medición más precisa de cualquier color intermedio.
+Para poder hacer la calibración del sensor:
+1. Se colocó en una superficie **blanca** frente al sensor, registrando los valores RGB como referencia máxima.  
+2. Se colocó en una superficie **negra** y se registraron los valores mínimos.  
+3. Luego se usaron esos valores como límites para ajustar las lecturas y obtener una medición más precisa de cualquier color intermedio.
 
 ---
 
